@@ -4,7 +4,7 @@
   <!-- <router-link to="/login"> Login</router-link> -->
   <Card>
     <template #header>
-      <div class="text-center logo">
+      <div class="text-center text-red-400 logo">
         <h1>MM</h1>
         <h3>FOAM</h3>
         <p>WAKE UP POSITIVE</p>
